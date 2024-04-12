@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/luiscachog/demo-app
-  newTag: latest
+  newTag: 91a3de2190f40e8a778b53cc9ab225362974e98a
